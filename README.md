@@ -1,5 +1,5 @@
 # Identity Lifecycle Management in Microsoft Azure's Entra ID  <p align="center"> 
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" /> 
+<img width="600" height="400" alt="image" src="https://github.com/DHLabs1/identity-lifecycle/blob/c0837b2004fb4b44b35541356b43782b22bba27f/screenshots/560031642-14806b36-bc52-44a8-a825-615241d884e0.png" /> 
 </p>
 
 <h1>Identity Lifecycle Management - Joiner, Mover, Leaver (Azure)</h1> 
@@ -17,7 +17,7 @@ This tutorial outlines the process of Identity Lifecycle of user accounts; Joine
 <h2>Joiner</h2> 
   
 <p>
-<img width="1919" height="628" alt="image" src="https://github.com/userattachments/assets/608b84c3-7759-4cd1-be2e-fc14d98a658b" />
+<img width="1919" height="628" alt="image" src="https://github.com/DHLabs1/identity-lifecycle/blob/c0837b2004fb4b44b35541356b43782b22bba27f/screenshots/Users%20Joined.JPG" />
 
 
 
@@ -30,11 +30,11 @@ User's that have Joined organization.
 <h2>Mover</h2> 
 
 <p>
-<img width="999" height="764" alt="image" src="https://github.com/userattachments/assets/425ff6e0-6bf2-467a-9de5-7f9f6b64e188" /> 
+<img width="999" height="764" alt="image" src="https://github.com/DHLabs1/identity-lifecycle/blob/c0837b2004fb4b44b35541356b43782b22bba27f/screenshots/Kobe%20-%20IT.JPG" /> 
 
 
 <p> 
-<img width="1024" height="759" alt="image" src="https://github.com/userattachments/assets/c97eaf5f-77f7-4591-9b7f-39647833afe8" /> 
+<img width="1024" height="759" alt="image" src="https://github.com/DHLabs1/identity-lifecycle/blob/c0837b2004fb4b44b35541356b43782b22bba27f/screenshots/Kobe%20-%20HR.JPG" /> 
 
 
 
@@ -47,7 +47,7 @@ User that has transfered to another department in organization. Went from IT to 
 <h2>Leaver</h2> 
 
 <p> 
-<img width="1918" height="740" alt="image" src="https://github.com/userattachments/assets/db4ab28a-097b-4861-b38a-033efc63a127" />
+<img width="1918" height="740" alt="image" src="https://github.com/DHLabs1/identity-lifecycle/blob/c0837b2004fb4b44b35541356b43782b22bba27f/screenshots/Lebron%20-%20Leaver.JPG" />
 
 
 
